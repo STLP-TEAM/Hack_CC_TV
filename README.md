@@ -6,6 +6,8 @@ pkg update<br>
 pkg upgrade<br>
 pkg install python<br>
 pkg install git<br>
+pkg install ruby<br>
+gem install lolcat<br>
 git clone https://github.com/STLP-TEAM/Hack_CC_TV<br>
 pip install requests<br>
 cd Hack_CC_TV<br>
